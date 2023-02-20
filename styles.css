@@ -9,7 +9,7 @@ html, body{
 .headerfull{
     width: 100%;
     height: 100%;
-    background: url("Contenido/imagenfondo.jpg") no-repeat 50% 50%;
+    background: url("imagenfondo.jpg") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -61,7 +61,7 @@ html, body{
 .seccion1full{
     width: 100%;
     height: 100%;
-    background: url("Contenido/imagenfondo2.png") no-repeat 50% 50%;
+    background: url("imagenfondo2.png") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -119,7 +119,7 @@ html, body{
 .seccion2full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/zyro-image.png") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("zyro-image.png") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -224,7 +224,7 @@ html, body{
 .seccion3full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/alfonsojaramillo.png") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("alfonsojaramillo.png") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -241,7 +241,7 @@ html, body{
 .seccion4full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/colegionuevo.jpg") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("colegionuevo.jpg") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -253,7 +253,7 @@ html, body{
 .seccion5full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/IAJ.png") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("IAJ.png") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -265,7 +265,7 @@ html, body{
 .seccion6full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/laverdieri.png") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("laverdieri.png") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -289,7 +289,7 @@ html, body{
 .seccion7full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/sabana.jpg") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("sabana.jpg") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -301,7 +301,7 @@ html, body{
 .seccion8full{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/laboratorio.jpg") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("laboratorio.jpg") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
@@ -313,7 +313,7 @@ html, body{
 .seccion9wfull{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("Contenido/final.jpg") no-repeat 50% 50%;
+    background: linear-gradient(rgba(5,7,12,0.7), rgba(5,7,12,0.7)) ,url("final.jpg") no-repeat 50% 50%;
     background-size: cover;
     display: table;
     margin: 0;
